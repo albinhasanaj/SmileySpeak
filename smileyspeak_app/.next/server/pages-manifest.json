@@ -1,0 +1,10 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/api/comments/getComments": "pages/api/comments/getComments.js",
+  "/api/auth/signup": "pages/api/auth/signup.js",
+  "/api/comments/createComment": "pages/api/comments/createComment.js",
+  "/api/auth/check": "pages/api/auth/check.js",
+  "/api/auth/logout": "pages/api/auth/logout.js"
+}
