@@ -11,8 +11,16 @@ SmileySpeak allows users to discover, share, and interact with comments. It show
 
 1. Clone the repository.
 2. Install dependencies with `npm install` inside of the `smileyspeak_app` directory
-3. Set up your MySQL database and configure environment variables in a `.env` file, also inside the `smileyspeak_app`.
-4. Run the project within the `smileyspeak_app` directory using `npm run dev`.
+3. Set up your MySQL database and configure environment variables in a `.env` file, also inside the `smileyspeak_app` following this structure:
+```
+DB_HOST= your-host ex localhost
+DB_USER= your-user ex root
+DB_PASSWORD= your-password
+DB_NAME= your-db-name
+JWT_SECRET=your-jwt-secret
+```
+
+5. Run the project within the `smileyspeak_app` directory using `npm run dev`.
 
 ## Features
 
