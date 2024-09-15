@@ -1,4 +1,4 @@
-// File: C:\Users\albin\OneDrive\Skrivbord\smileyspeak\smileyspeak_app\app\(auth)\layout.tsx
+// File: C:\Users\albin\Desktop\ss\smileyspeak_app\app\(auth)\layout.tsx
 import * as entry from '../../../../app/(auth)/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
